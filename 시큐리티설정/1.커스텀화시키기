@@ -1,0 +1,3 @@
+### 커스텀 UserDetailsService,UserDetails 활용
+jdbc를 이용하는 방식으로도db를 처리해서 ㅕㄴ리하게 사용할 수 있기는하지만,
+사용자의 여러 정보들 중에서 제한적인 
